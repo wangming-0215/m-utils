@@ -1,0 +1,19 @@
+{
+  "name": "m-utils",
+  "version": "0.1.0",
+  "description": "工作，学习中遇到的一些工具函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require @babel/register"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/register": "^7.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
