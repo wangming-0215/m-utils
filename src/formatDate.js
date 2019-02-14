@@ -16,8 +16,8 @@ const formatMapper = {
  * 一位日期转成两位的字符串
  * 5 -> 05
  * 10 -> 10
- *
  * TODO：自己实现一个
+ *
  * @param {number} input
  */
 function padded(input) {
