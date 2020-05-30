@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import isArray from '../src/isArray';
+import isArray from '../src_bak/isArray';
 
 describe('isArray', () => {
   it('123 is not an Array', () => {

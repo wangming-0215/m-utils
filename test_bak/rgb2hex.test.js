@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import rgb2hex from '../src/rgb2hex';
+import rgb2hex from '../src_bak/rgb2hex';
 
 describe('rgb to hex', () => {
   it('rgb(255, 255, 255) equals to #ffffff', () => {
